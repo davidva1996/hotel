@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hotel/build/static/css/main.6800fe61.css",
+    "main.js": "/hotel/build/static/js/main.c0ca5600.js",
+    "index.html": "/hotel/build/index.html",
+    "main.6800fe61.css.map": "/hotel/build/static/css/main.6800fe61.css.map",
+    "main.c0ca5600.js.map": "/hotel/build/static/js/main.c0ca5600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6800fe61.css",
+    "static/js/main.c0ca5600.js"
+  ]
+}
