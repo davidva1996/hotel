@@ -1,11 +1,12 @@
 import React from 'react'
+import Principal from '../assets/maldives-ile-beach-sun.jpeg'
 
 const Hero = () => {
   return (
     <div className='w-full h-screen'>
     <img
       className='top-0 left-0 w-full h-screen object-cover'
-      src='https://images.pexels.com/photos/38238/maldives-ile-beach-sun-38238.jpeg'
+      src={Principal}
       alt='/'
     />
     <div className='bg-black/30 absolute top-0 left-0 w-full h-screen' />

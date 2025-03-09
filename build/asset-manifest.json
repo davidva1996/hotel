@@ -1,13 +1,26 @@
 {
   "files": {
-    "main.css": "/hotel/build/static/css/main.6800fe61.css",
-    "main.js": "/hotel/build/static/js/main.c0ca5600.js",
+    "main.css": "/hotel/build/static/css/main.e6710a3e.css",
+    "main.js": "/hotel/build/static/js/main.d068d2ff.js",
+    "static/media/foto-1.png": "/hotel/build/static/media/foto-1.31a35a8192c514c2ab05.png",
+    "static/media/habitacion-2.png": "/hotel/build/static/media/habitacion-2.61b066b04880f074cdac.png",
+    "static/media/habitacion-1.png": "/hotel/build/static/media/habitacion-1.7b08b3fc8a845c8f5c11.png",
+    "static/media/slider-1.png": "/hotel/build/static/media/slider-1.cd0ea174529369522c62.png",
+    "static/media/foto-4.png": "/hotel/build/static/media/foto-4.e749e0e8a1d69e5c7b15.png",
+    "static/media/slider-4.png": "/hotel/build/static/media/slider-4.79bfe0c72f8f9ce4b26f.png",
+    "static/media/habitacion-3.png": "/hotel/build/static/media/habitacion-3.24117709085702471697.png",
+    "static/media/foto-3.png": "/hotel/build/static/media/foto-3.ba506e3626b97e96ce20.png",
+    "static/media/foto-5.png": "/hotel/build/static/media/foto-5.e900b5d26c2f1507875c.png",
+    "static/media/slider-3.png": "/hotel/build/static/media/slider-3.399653f74e1d26090277.png",
+    "static/media/maldives-ile-beach-sun.jpeg": "/hotel/build/static/media/maldives-ile-beach-sun.b5cb0a673288e2508be5.jpeg",
+    "static/media/foto-2.png": "/hotel/build/static/media/foto-2.23dddf5c9f7f3ef53fc9.png",
+    "static/media/slider-2.png": "/hotel/build/static/media/slider-2.fd9d7906c8823ae91df1.png",
     "index.html": "/hotel/build/index.html",
-    "main.6800fe61.css.map": "/hotel/build/static/css/main.6800fe61.css.map",
-    "main.c0ca5600.js.map": "/hotel/build/static/js/main.c0ca5600.js.map"
+    "main.e6710a3e.css.map": "/hotel/build/static/css/main.e6710a3e.css.map",
+    "main.d068d2ff.js.map": "/hotel/build/static/js/main.d068d2ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.6800fe61.css",
-    "static/js/main.c0ca5600.js"
+    "static/css/main.e6710a3e.css",
+    "static/js/main.d068d2ff.js"
   ]
 }

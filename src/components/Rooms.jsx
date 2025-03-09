@@ -1,4 +1,7 @@
 import React from 'react'
+import habitacion1 from '../assets/habitacion-1.png'
+import habitacion2 from '../assets/habitacion-2.png'
+import habitacion3 from '../assets/habitacion-3.png'
 
 const Rooms = () => {
   return (
@@ -14,17 +17,17 @@ const Rooms = () => {
     <div className='grid grid-cols-2 col-span-2 gap-2'>
       <img
       className='object-cover w-full h-full'
-        src='https://images.unsplash.com/photo-1602002418082-a4443e081dd1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80'
+        src={habitacion1}
         alt='/'
       />
       <img
       className='row-span-2 object-cover w-full h-full'
-        src='https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80'
+        src={habitacion2}
         alt='/'
       />
       <img
       className='object-cover w-full h-full'
-        src='https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80'
+        src={habitacion3}
         alt='/'
       />
     </div>
